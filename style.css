@@ -1,0 +1,27 @@
+.navbar ul li {display:inline}
+
+.navbar a {
+padding:8px;
+color:white; background-color:#872b7b;
+font-family:Verdana;
+border-style:outset;
+text-decoration:none;
+width:14em;
+}
+
+.navbar a:hover,
+.navbar a:active
+{
+border-style:inset;
+color:lightpink;
+}
+
+a.lightblue
+{
+color:#99ffeb;
+}
+
+a.lightpurple
+{
+color:#da96ff;
+}
