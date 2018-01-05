@@ -2,8 +2,15 @@
 <html>
 <head>
 <title>TutorialZone!</title>
+  <script>
+    var today = new Date();
+document.getElementById('time').innerHTML=today;
+  </script>
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body bgcolor="#cca96e">
 <center>
-<marquee behavior="scroll" direction="left"><h1><font face="Arial" color="white">Welcome to TutorialZone designed by iceyy and ClappingDJ! </font></h1></marquee>
+  <h1><font face="Arial" color="white">Welcome to TutorialZone designed by iceyy and ClappingDJ! </font></h1>
+  <h2>The time is currently: <strong>
+         <span id="time"></span>
+    </strong> </h2>
