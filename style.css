@@ -1,3 +1,7 @@
+p.title {
+    text-shadow: 0 0 15px #FFF352;
+}
+
 .navbar ul li {display:inline}
 
 .navbar a {
