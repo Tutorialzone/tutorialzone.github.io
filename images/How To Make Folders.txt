@@ -1,0 +1,8 @@
+Hi! To put images here you need to make a folder inside the images folder.
+If I wanted to make a tutorial about changing your lock screen, I would make the folder name something like 'changinglockscrn' (folder
+names have to be one word so they work in the code)
+
+To make a folder press create file and in the name box do a forward slash ( / ) and then your folder name and then another forward slash
+( / ) and then type test.txt! Now you have a folder. You can now import your images by uploading them and then delete the text file if you
+want!
+
